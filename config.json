@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorvonnect",
+        "uuid": 11377750,
+        "checksum": "cn13fs"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
